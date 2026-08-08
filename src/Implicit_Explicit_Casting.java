@@ -18,5 +18,19 @@ public class Implicit_Explicit_Casting {
 
         int r = 5;
         System.out.println(++r + r++);
+
+        String str = "abc.def";
+
+        String[] result = str.split(".");
+
+        System.out.println(result.length);
     }
 }
+
+//death  note - 50
+//AOt - 150
+// Solo leveling - 70
+//jjk - 90
+// Demons Slayer - 70
+// Ragna Crimson - 24
+//.. ReZero
