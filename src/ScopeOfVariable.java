@@ -17,7 +17,7 @@ public class ScopeOfVariable { // Scope = the area of the program where a variab
         System.out.println(s);
         System.out.println(x);
         System.out.println(c);
-        double y = 83847829.348904;
+        double y =  83847829.348904;
 
         int g = (int) 78.34;
 
