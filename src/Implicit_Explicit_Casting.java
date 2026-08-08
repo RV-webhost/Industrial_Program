@@ -19,9 +19,10 @@ public class Implicit_Explicit_Casting {
         int r = 5;
         System.out.println(++r + r++);
 
-        String str = "abc.def";
+        String str = "abc.def"; // abc def
 
         String[] result = str.split(".");
+        // "" "" "" "" ""
 
         System.out.println(result.length);
     }
