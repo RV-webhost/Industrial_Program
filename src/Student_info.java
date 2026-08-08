@@ -25,6 +25,7 @@ public class Student_info {
 //        b = a^b;
 //        a = a^b;
 
+
         System.out.println("n1: " + n1 + " " + "n2: " + n2);
 
 
